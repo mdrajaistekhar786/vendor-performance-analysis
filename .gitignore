@@ -1,0 +1,6 @@
+*.db
+data/purchases.csv
+data/sales.csv
+inventory.db
+.ipynb_checkpoints/
+logs/
